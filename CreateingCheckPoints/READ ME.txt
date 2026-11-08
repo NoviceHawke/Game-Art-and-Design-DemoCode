@@ -1,0 +1,2 @@
+ These Codes came from a different Unity File then what was shown in class, because of this some names of Functions and Variables may not match
+ with past codes i have shown, if this is the case, as always just switch out the variable names or functions with whatever you choose to name them.
