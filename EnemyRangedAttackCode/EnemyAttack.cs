@@ -47,7 +47,7 @@ public class EnemyAttack : MonoBehaviour
         Gizmos.color = Color.yellow;
    
 
-        { Gizmos.DrawLine(attackSpawn.position, new Vector3(attackSpawn.position.x, attackSpawn.position.y- sightLine, rayStart.position.z)); }
+        { Gizmos.DrawLine(attackSpawn.position, new Vector3(attackSpawn.position.x, attackSpawn.position.y- sightLine,  attackSpawn.position.position.z)); }
     }
 
     //Checks if player is in enemy's range
