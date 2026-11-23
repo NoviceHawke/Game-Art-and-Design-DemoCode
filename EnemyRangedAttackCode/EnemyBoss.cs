@@ -1,7 +1,9 @@
 using UnityEngine;
 
 public class EnemyBoss : MonoBehaviour
-{
+{/*READ ME for this code to work it is recomended you place the code on a partent of the boss sprite with atleast 5 empty objects to act as the fire zone
+but code can easily be edited to work on the main  enemy sprtie, but the base set up where the movement is handled by a parent should still be used
+*/
     [Header("Movement")]
     public float speed = 3;
     [Header("Attacks")]
